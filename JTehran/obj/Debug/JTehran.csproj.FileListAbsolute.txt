@@ -1,0 +1,46 @@
+C:\Users\Lenovo\Desktop\JTehran\JTehran\bin\Debug\JTehran.exe.config
+C:\Users\Lenovo\Desktop\JTehran\JTehran\bin\Debug\JTehran.exe
+C:\Users\Lenovo\Desktop\JTehran\JTehran\bin\Debug\JTehran.pdb
+C:\Users\Lenovo\Desktop\JTehran\JTehran\obj\Debug\JTehran.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\JTehran\JTehran\obj\Debug\JTehran.Form1.resources
+C:\Users\Lenovo\Desktop\JTehran\JTehran\obj\Debug\JTehran.FormPro.resources
+C:\Users\Lenovo\Desktop\JTehran\JTehran\obj\Debug\JTehran.FormStu.resources
+C:\Users\Lenovo\Desktop\JTehran\JTehran\obj\Debug\JTehran.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\JTehran\JTehran\obj\Debug\JTehran.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\JTehran\JTehran\obj\Debug\JTehran.exe
+C:\Users\Lenovo\Desktop\JTehran\JTehran\obj\Debug\JTehran.pdb
+C:\Users\Lenovo\Desktop\JTehran\JTehran\obj\Debug\JTehran.FrmdelStu.resources
+C:\Users\Lenovo\Desktop\JTehran\JTehran\obj\Debug\JTehran.FrmnewStu.resources
+C:\Users\Lenovo\Desktop\JTehran\JTehran\obj\Debug\JTehran.FrmshwStu.resources
+C:\Users\Lenovo\Desktop\JTehran\JTehran\obj\Debug\JTehran.FrmnewPro.resources
+C:\Users\Lenovo\Desktop\JTehran\JTehran\obj\Debug\JTehran.FrmnewTrm.resources
+C:\Users\Lenovo\Desktop\JTehran\JTehran\obj\Debug\JTehran.FrmshwPro.resources
+C:\Users\Lenovo\Desktop\JTehran\JTehran\obj\Debug\JTehran.FormupPro.resources
+C:\Users\Lenovo\Desktop\JTehran\JTehran\obj\Debug\JTehran.FormdelPro.resources
+C:\Users\Lenovo\Desktop\JTehran\JTehran\obj\Debug\JTehran.Success.resources
+E:\desktop\New folder\JTehran\JTehran\bin\Debug\JTehran.exe.config
+E:\desktop\New folder\JTehran\JTehran\obj\Debug\JTehran.exe
+E:\desktop\New folder\JTehran\JTehran\obj\Debug\JTehran.pdb
+E:\programming\C#\New folder\JTehran\JTehran\bin\Debug\JTehran.exe.config
+E:\programming\C#\New folder\JTehran\JTehran\obj\Debug\JTehran.exe
+E:\programming\C#\New folder\JTehran\JTehran\obj\Debug\JTehran.pdb
+E:\programming\C#\New folder\ProjectC#\JTehran\bin\Debug\JTehran.exe.config
+E:\programming\C#\New folder\ProjectC#\JTehran\obj\Debug\JTehran.exe
+E:\programming\C#\New folder\ProjectC#\JTehran\obj\Debug\JTehran.pdb
+E:\programming\C#\New folder\ProjectC#\JTehran\bin\Debug\JTehran.exe
+E:\programming\C#\New folder\ProjectC#\JTehran\bin\Debug\JTehran.pdb
+E:\programming\C#\New folder\ProjectC#\JTehran\obj\Debug\JTehran.csprojResolveAssemblyReference.cache
+E:\programming\C#\New folder\ProjectC#\JTehran\obj\Debug\JTehran.Form1.resources
+E:\programming\C#\New folder\ProjectC#\JTehran\obj\Debug\JTehran.FormdelPro.resources
+E:\programming\C#\New folder\ProjectC#\JTehran\obj\Debug\JTehran.FormPro.resources
+E:\programming\C#\New folder\ProjectC#\JTehran\obj\Debug\JTehran.FormStu.resources
+E:\programming\C#\New folder\ProjectC#\JTehran\obj\Debug\JTehran.FormupPro.resources
+E:\programming\C#\New folder\ProjectC#\JTehran\obj\Debug\JTehran.FrmdelStu.resources
+E:\programming\C#\New folder\ProjectC#\JTehran\obj\Debug\JTehran.FrmnewPro.resources
+E:\programming\C#\New folder\ProjectC#\JTehran\obj\Debug\JTehran.FrmnewStu.resources
+E:\programming\C#\New folder\ProjectC#\JTehran\obj\Debug\JTehran.FrmnewTrm.resources
+E:\programming\C#\New folder\ProjectC#\JTehran\obj\Debug\JTehran.FrmshwPro.resources
+E:\programming\C#\New folder\ProjectC#\JTehran\obj\Debug\JTehran.FrmshwStu.resources
+E:\programming\C#\New folder\ProjectC#\JTehran\obj\Debug\JTehran.Properties.Resources.resources
+E:\programming\C#\New folder\ProjectC#\JTehran\obj\Debug\JTehran.Success.resources
+E:\programming\C#\New folder\ProjectC#\JTehran\obj\Debug\JTehran.csproj.GenerateResource.Cache
